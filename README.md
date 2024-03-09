@@ -20,3 +20,6 @@
 16. Выводим результат 
 ## Результат
 ![image](https://github.com/gwoso/4_laba/assets/150545779/cf015d9c-c972-44dd-8d76-a3a02a898a7b)
+## Условие 2 задачи 
+![image](https://github.com/gwoso/4_laba/assets/150545779/dcf1cace-4fb7-4391-a48c-44e638d7fbf8)
+## Алгоритм
