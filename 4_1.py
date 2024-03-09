@@ -7,12 +7,12 @@ def hero():
 
     def heal(x):
         nonlocal hp 
-        hp = min(hp + x, 100)
+        hp = hp + x
         return hp
     
     def damage(x):
         nonlocal hp
-        hp = max(hp - x, 0)
+        hp = hp - x
         return hp
     
     return heal, damage
