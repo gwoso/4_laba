@@ -29,6 +29,6 @@
 ## Результат
 ![image](https://github.com/gwoso/4_laba/assets/150545779/7bed03ea-bbca-46ec-9df0-509176055def)
 ## Источники
-1. [](https://www.youtube.com/watch?v=sJF7OMNgLUs)
-2. [](https://www.youtube.com/watch?v=v0qZPplzwUQ&t=385s)
-3. [](https://stackoverflow.com/questions/3029636/suppressing-a-functions-command-window-output)
+1. [#44. Замыкания в Python | Python для начинающих - YouTube](https://www.youtube.com/watch?v=sJF7OMNgLUs)
+2. [#45. Введение в декораторы функций | Python для начинающих - YouTube](https://www.youtube.com/watch?v=v0qZPplzwUQ&t=385s)
+3. [matlab - Suppressing a function's command window output - Stack Overflow](https://stackoverflow.com/questions/3029636/suppressing-a-functions-command-window-output)
